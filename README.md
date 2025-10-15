@@ -22,5 +22,7 @@ Database: MySQL
 
 Server: Apache / InfinityFree
 
-Visit Here:- https://hmsrishavkumar.infinityfree.me/
-             http://hmsrishavkumar.infinityfree.me
+Visit Here:
+https://hmsrishavkumar.infinityfree.me/ 
+or
+http://hmsrishavkumar.infinityfree.me
